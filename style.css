@@ -80,9 +80,10 @@ img {
 }
 
 .drop_social {
-  margin: 0 .375rem;
+  margin: 0 .400rem;
   color: var(--first-color-light);
   transition: .4s;
+  font-size: 20px;
 }
 
 .drop_social:hover {
